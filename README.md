@@ -1,4 +1,4 @@
-# Spring-Ai-Game-Rules-Loader
+# Spring-AI-Game-Rules-Loader
 
 Pipeline RAG (Retrieval-Augmented Generation) con Spring AI per il caricamento, chunking e salvataggio vettoriale delle regole dei giochi da tavolo.
 
